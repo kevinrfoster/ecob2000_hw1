@@ -1,7 +1,7 @@
 Homework \#1
 ================
 
-### Due 8am EST Friday Sept 8, 2023
+### Due 8am EST Friday Sept 6, 2024
 
 ### Econ B2000, MA Econometrics
 
@@ -19,10 +19,10 @@ there. When submitting assignments, please include your name and the
 assignment number as part of the filename. Please write the names of
 your study group members at the beginning of your homework.*
 
-1.  What are the names of the people in your study group?
+1.  What are the names of the people in your study group (for now)?
 2.  Work on the Hawkes stats review - you must complete the diagnostic
-    test by end of the day Friday Sept 29.
-3.  *this is due before class* During class on Thursday Sept 7, we’ll do
+    test by end of the day Friday Sept 27.
+3.  *this is due before class* During class on Thursday, we’ll do
     experiments on sequences of random numbers. I gave out dice in first
     class, for you to play with – sanding, filing, heating, drilling,
     gluing, squeezing or whatever – to see if you can adjust which
@@ -35,7 +35,9 @@ your study group members at the beginning of your homework.*
     ages for men and women. Tell me something else interesting, that you
     learned from the data. Are there surprises for you? We will use this
     same data for a few exercises so it’s worth getting deeper into it.
-5.  Look over Lab 1, to start thinking about what you’re being asked to
+5.  Think about some interesting questions to ask about that Household
+    Pulse Data. We’ll talk about those in class.
+6.  Look over Lab 1, to start thinking about what you’re being asked to
     do. We’ll discuss more in class.
 
 *The dice example is from Andrew Gelman’s book on Teaching Stats.*
